@@ -1,23 +1,27 @@
 # Sophie Bonneval
 
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+
+## Links
+
 <p align="center">
 
 <a href="http://sophiebonneval.com/">
-<img src="https://github.com/Maldorana/CV/blob/master/img/website.png" alt="medium" hspace="50" height="100" width="100"></a>
+<img src="https://github.com/Maldorana/CV/blob/master/img/website.png" alt="portfolio" hspace="50" height="80" width="80"></a>
 
 <a href="https://www.linkedin.com/in/sophie-bonneval-9b8b07a4/">
-<img src="https://github.com/Maldorana/CV/blob/master/img/linkedin.png" alt="medium" hspace="50" height="100" width="100"></a>
+<img src="https://github.com/Maldorana/CV/blob/master/img/linkedin.png" alt="linkedin" hspace="50" height="80" width="80"></a>
 
 <a href="https://codepen.io/Maldorana">
-<img src="https://github.com/Maldorana/CV/blob/master/img/codepen.png" alt="medium" hspace="50" height="100" width="100"></a>
+<img src="https://github.com/Maldorana/CV/blob/master/img/codepen.png" alt="codepen" hspace="50" height="80" width="80"></a>
  
 <a href="https://www.codewars.com/users/Maldorana">
-<img src="https://github.com/Maldorana/CV/blob/master/img/codewars.png" alt="medium" hspace="50" height="100" width="100"></a>
+<img src="https://github.com/Maldorana/CV/blob/master/img/codewars.png" alt="codewars" hspace="50" height="80" width="80"></a>
 
 </p>
 
-
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/sophie-bonneval-9b8b07a4/?originalSubdomain=uk) | [Portfolio](http://sophiebonneval.com/)
+## About me
 
 I am a driven and passionate **Junior Full Stack Developer**, looking for a role where I can consolidate and extend my knowledge of programming and product development.
 
@@ -30,14 +34,14 @@ I learnt how to code at Makers Academy, a 16 weeks software development bootcamp
 
 ## Projects
 
-For a complete list, see my [GitHub](https://github.com/Maldorana?tab=repositories).
+For a complete list, see my [GitHub repositories](https://github.com/Maldorana?tab=repositories).
 
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [Recipedia](https://github.com/Maldorana/Recipedia) | Recipedia is an app to help food lovers search for recipes, add recipes to their favourites list and with the inspiration of browsing recipes they can create their own recipes. | React, Node.js, Firebase, Jest |
-| [Alpha Blog](https://github.com/Maldorana/alpha-blog) | A Simple but efficient blog. Users can find and read articles by tag or author as well as write, edit and delete their own. Administrators can edit and delete any articles. | Ruby, Ruby on Rails, Javascript, Bootstrap |
-| [Message Me](https://github.com/Maldorana/message-me)| A very simple chatbox application. Users can sign up, log in and chat with other users. | Ruby, Ruby on Rails, JQuery, Semantic UI, Redis |
-| [Finance Tracker](https://github.com/Maldorana/finance-tracker) | A stock tracker, working with an API to keep track of the stock market. Users can track their favorite stocks and look up the tracked stocks of other users. | Ruby, Ruby on Rails, RSpec, Bootstrap |
+| Project   | Description | Link | Technologies |
+|---        |---          |---   |---           |
+| [Recipedia](https://github.com/Maldorana/Recipedia) | Recipedia is an app to help food lovers search for recipes, add recipes to their favourites list and with the inspiration of browsing recipes they can create their own recipes. | [<img src="https://github.com/Maldorana/CV/blob/master/img/firebase.svg" alt="firebase" hspace="50" height="50" width="50">](https://recipedia-cbe2c.web.app) | React, Node.js, Firebase, Jest |
+| [Alpha Blog](https://github.com/Maldorana/alpha-blog) | A Simple but efficient blog. Users can find and read articles by tag or author as well as write, edit and delete their own. Administrators can edit and delete any articles. | [<img src="https://github.com/Maldorana/CV/blob/master/img/heroku.svg" alt="heroku" hspace="50" height="50" width="50">](https://alpha-blog-on-rails.herokuapp.com) | Ruby, Ruby on Rails, Javascript, Bootstrap |
+| [Message Me](https://github.com/Maldorana/message-me)| A very simple chatbox application. Users can sign up, log in and chat with other users. | [<img src="https://github.com/Maldorana/CV/blob/master/img/heroku.svg" alt="heroku" hspace="50" height="50" width="50">](https://message-me-on-rails.herokuapp.com) | Ruby, Ruby on Rails, JQuery, Semantic UI, Redis |
+| [Finance Tracker](https://github.com/Maldorana/finance-tracker) | A stock tracker, working with an API to keep track of the stock market. Users can track their favorite stocks and look up the tracked stocks of other users. | [<img src="https://github.com/Maldorana/CV/blob/master/img/heroku.svg" alt="heroku" hspace="50" height="50" width="50">](https://finance-tracker-on-rails.herokuapp.com) | Ruby, Ruby on Rails, RSpec, Bootstrap |
 
 ## Experience
 
