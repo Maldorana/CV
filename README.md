@@ -51,9 +51,9 @@ For a complete list, see my [GitHub](https://github.com/Maldorana?tab=repositori
 
 #### Eager problem solver
 
+* I'm just beginning to understand how much creative thinking good programming actually requires, and I'm thrilled to be using my creativity in such a refreshing way. Challenging everything I think I know, finding patterns and thinking outside the box is how I solve the most complicated problems.
 * I'm effective at understanding and finding solutions to error messages during TDD and debugging, and understanding the reasons why errors occur.
 * During most of the projects at Makers, I was one of the go-to students to fix bugs and I helped my fellow Makers solve numerous issues on top of the ones encountered by my own group.
-* I'm just beginning to understand how much creative thinking good programming actually requires, and I'm thrilled to be using my creativity in such a refreshing way. Challenging everything I think I know, finding patterns and thinking outside the box is how I solve the most complicated problems.
 
 #### Natural leader and planner
 
