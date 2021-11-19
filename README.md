@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/sophie-bonneval-9b8b07a4/?originalSubdomain=uk) | [Portfolio](http://sophiebonneval.com/)
 
-I am a driven and passionate **Junior Full Stack Developer**, looking for a role where I can consolidate and extend my knowledge of programming and product development.
+I am a driven and passionate **Junior Full Stack Developer** specialising in the front-end, looking for a role where I can consolidate and extend my knowledge of programming and product development.
 
 I graduated from a Visual Communication bachelor's degree in France and worked as a Product Designer in London for 5 years, during which I learnt the basics of front-end web development and working in an agile team. 
 
