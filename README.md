@@ -85,8 +85,8 @@ _Junior Graphic Designer_
 
 #### Keen on sharing knowledge
 
-- I volunteered to take on 3 mentees, whom I supported and taught since before the start of their bootcamp and I am still helping them to that day.
-- I would always take some time during group projects to show the others my process with HTML and CSS while styling a page since I had experience with that from my previous career and it's not something we work on a lot at Makers.
+- I volunteered to take on 3 mentees, whom I've been supporting and teaching since before the start of their bootcamp and I am still helping them to that day.
+- At Makers, I would always take some time during group projects to show the others my process with HTML and CSS while styling a page since I had experience with that from my previous career and it's not something we work on a lot.
 
 #### Additional skills
 
