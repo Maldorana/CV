@@ -45,22 +45,26 @@ For a complete list, see my [GitHub](https://github.com/Maldorana?tab=repositori
 #### Fast and independant learner
 
 * I started teaching myself HTML and CSS during my time as a Web Designer in order to produce live mockups of my designs.
-* Before the Makers Academy precourse began, I taught myself how to use Ruby on rails and completed several projects on my own.
-* For our final project at Makers, I taught myself how to code in React using Udemy courses and built our website in under two weeks.
-* I landed my first job at Padawan Ldt after a 3 months internship by impressing the CEO with my versatility and eagerness to do research on any subject and learn independantly to complete efficiently any task, from launching social media campaigns to rendering motion design videos to a professional level for TV ads. See more [here](http://sophiebonneval.com/).
+* Before the Makers Academy precourse began, I taught myself how to use Ruby on Rails and completed several projects on my own.
+* For our final project at Makers, my team and me taught ourselves how to use React in order to develop our recipe website in under two weeks.
+* I landed my first job as a Junior Web Designer at Padawan Ldt after a 3 months internship by impressing the CEO with my versatility and eagerness to do research on any subject and learn independantly to complete efficiently any task, from launching social media campaigns to rendering motion design videos to a professional level for TV ads.
 
-#### Planning and strategy
+#### Eager problem solver
 
-During my time at Careerjet, I was involved in the planning of the business model transition from start to finish, and I was in charge of the modernisation of the Sales Team communication strategy by conceiving and designing over 100 email templates and Sales Deck. See more [here](http://sophiebonneval.com/).
+* I'm effective at understanding and finding solutions to error messages during TDD and debugging, and understanding the reasons why errors occur.
+* During most of the projects at Makers, I was one of the go-to students to fix bugs and I helped my fellow Makers solve numerous issues on top of the ones encountered by my own group.
+* I'm just beginning to understand how much creative thinking good programming actually requires, and I'm thrilled to be using my creativity in such a refreshing way. Challenging everything I think I know, finding patterns and thinking outside the box is how I solve the most complicated problems.
 
-#### Creative thinking
+#### Natural leader and planner
 
-I'm just beginning to understand how much creative thinking good programming actually requires, and I'm thrilled to be using my creativity in such a refreshing way. Challenging everything I think I know, finding patterns and thinking outside the box is how I solve the most complicated problems.
+* I naturally took the lead for most of my group projects during Makers bootcamp to help with the planning and development of our products.
+* I volunteered to co-hosted our very first demo day and self-led retro as a cohort during the fifth week at Makers.
+* During my time at Careerjet, I was in charge of the planning of the business model transition from start to finish, and I was leading the modernisation of the Sales Team communication strategy by conceiving and designing over 100 email templates and Sales Deck.
 
-#### Excellent communicator
+#### Keen on sharing knowledge
 
-During my time at Padawan Ldt I was in charge of compiling data and designing the monthly newsletters for stakeholders, with our products' new features, updates on the latest projects and the analysis of the previous releases.
-I have continued to develop my written communication skills by [blogging](https://alpha-blog-on-rails.herokuapp.com/) about my experience learning to code.
+* I volunteered to take on 3 mentees, whom I supported and taught since before the start of their bootcamp and I am still helping them to that day.
+* I would always take some time during group projects to show the others my process with HTML and CSS while styling a page since I had experience with that from my previous career and it's not something we work on a lot at Makers.
 
 #### Additional skills
 
