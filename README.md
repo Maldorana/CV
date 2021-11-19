@@ -42,9 +42,12 @@ For a complete list, see my [GitHub](https://github.com/Maldorana?tab=repositori
 
 ## Skills
 
-#### Fast learner
+#### Fast and independant learner
 
-I landed my first job at Padawan Ldt after a 3 months internship by impressing the CEO with my versatility and eagerness to do research on any subject and learn independantly to complete efficiently any task, from launching social media campaigns to rendering motion design videos to a professional level for TV ads. See more [here](http://sophiebonneval.com/).
+* I started teaching myself HTML and CSS during my time as a Web Designer in order to produce live mockups of my designs.
+* Before the Makers Academy precourse began, I taught myself how to use Ruby on rails and completed several projects on my own.
+* For our final project at Makers, I taught myself how to code in React using Udemy courses and built our website in under two weeks.
+* I landed my first job at Padawan Ldt after a 3 months internship by impressing the CEO with my versatility and eagerness to do research on any subject and learn independantly to complete efficiently any task, from launching social media campaigns to rendering motion design videos to a professional level for TV ads. See more [here](http://sophiebonneval.com/).
 
 #### Planning and strategy
 
