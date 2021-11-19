@@ -2,11 +2,17 @@
 
 <p align="center">
 
-<a href="mailto:ben.smith.gordon@gmail.com">
-<img src="https://github.com/Maldorana/CV/blob/master/img/website.png" alt="medium" hspace="50" height="42" width="42"></a>
+<a href="http://sophiebonneval.com/">
+<img src="https://github.com/Maldorana/CV/blob/master/img/website.png" alt="medium" hspace="50" height="100" width="100"></a>
 
-<a href="https://www.linkedin.com/in/benjamin-luke-smith-gordon-2a4686167/">
-<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/sophie-bonneval-9b8b07a4/">
+<img src="https://github.com/Maldorana/CV/blob/master/img/linkedin.png" alt="medium" hspace="50" height="100" width="100"></a>
+
+<a href="https://codepen.io/Maldorana">
+<img src="https://github.com/Maldorana/CV/blob/master/img/codepen.png" alt="medium" hspace="50" height="100" width="100"></a>
+ 
+<a href="https://www.codewars.com/users/Maldorana">
+<img src="https://github.com/Maldorana/CV/blob/master/img/codewars.png" alt="medium" hspace="50" height="100" width="100"></a>
 
 </p>
 
