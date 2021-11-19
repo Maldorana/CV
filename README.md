@@ -6,16 +6,16 @@
 
 <p align="center">
 
-<a href="http://sophiebonneval.com/" target="_blank">
+<a href="http://sophiebonneval.com/">
 <img src="https://github.com/Maldorana/CV/blob/master/img/website.png" alt="portfolio" hspace="30" height="80" width="80"></a>
 
-<a href="https://www.linkedin.com/in/sophie-bonneval-9b8b07a4/" target="_blank">
+<a href="https://www.linkedin.com/in/sophie-bonneval-9b8b07a4/">
 <img src="https://github.com/Maldorana/CV/blob/master/img/linkedin.png" alt="linkedin" hspace="30" height="80" width="80"></a>
 
-<a href="https://codepen.io/Maldorana" target="_blank">
+<a href="https://codepen.io/Maldorana">
 <img src="https://github.com/Maldorana/CV/blob/master/img/codepen.png" alt="codepen" hspace="30" height="80" width="80"></a>
  
-<a href="https://www.codewars.com/users/Maldorana" target="_blank">
+<a href="https://www.codewars.com/users/Maldorana">
 <img src="https://github.com/Maldorana/CV/blob/master/img/codewars.png" alt="codewars" hspace="30" height="80" width="80"></a>
 
 </p>
