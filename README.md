@@ -81,7 +81,7 @@ _Junior Graphic Designer_
 
 - I naturally took the lead for most of my group projects during Makers bootcamp to help with the planning and development of our products.
 - I volunteered to co-hosted our very first demo day and self-led retro as a cohort during the fifth week at Makers.
-- During my time at Careerjet, I was in charge of the planning of the business model transition from start to finish, and I was leading the modernisation of the Sales Team communication strategy by conceiving and designing over 100 email templates and Sales Deck.
+- During my time at Careerjet, I've planned the modernisation of the Sales Team communication strategy by conceiving and designing over 100 email templates and Sales Deck.
 
 #### Keen on sharing knowledge
 
@@ -117,4 +117,5 @@ A 16-week intensive development bootcamp, focusing on :
 
 - **Running** : I like to start my day with fresh air and a good run
 - **Writing** : I use my imagination to write all sorts of stories after a long hard day
-- **Video Games** : I'm the founder and administrator of a small gaming community where I organise online events
+- **Video Games** : I'm the founder and administrator of a small gaming community where I used to organise online competitive events with 30+ players. As a team, we've reached the top 1% of all players for that given game worldwide.
+- **Property investor** : I bought my first property after 2 years of research into the property market and I plan to build a solid and diverse portfolio by the time I'm 40.
