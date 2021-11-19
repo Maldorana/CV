@@ -19,9 +19,9 @@ For a complete list, see my [GitHub](https://github.com/Maldorana?tab=repositori
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [Recipedia](https://github.com/Maldorana/Recipedia) | Recipedia is an app to help food lovers search for recipes, add recipes to their favourites list and with the inspiration of browsing recipes they can create their own recipes. | React, Node.js, Firebase, Jest |
-| [Alpha Blog](https://github.com/Maldorana/alpha-blog) | A Simple but efficient blog. Users can find and read articles by tag or author as well as write, edit and delete their own. Administrators can edit and delete any articles. | Ruby, Rails, Javascript, Bootstrap |
-| [Message Me](https://github.com/Maldorana/message-me)| A very simple chatbox application. Users can sign up, log in and chat with other users. | Ruby, Rails, JQuery, Semantic UI, Redis |
-| [Finance Tracker](https://github.com/Maldorana/finance-tracker) | A stock tracker, working with an API to keep track of the stock market. Users can track their favorite stocks and look up the tracked stocks of other users. | Ruby, Rails, RSpec, Bootstrap |
+| [Alpha Blog](https://github.com/Maldorana/alpha-blog) | A Simple but efficient blog. Users can find and read articles by tag or author as well as write, edit and delete their own. Administrators can edit and delete any articles. | Ruby, Ruby on Rails, Javascript, Bootstrap |
+| [Message Me](https://github.com/Maldorana/message-me)| A very simple chatbox application. Users can sign up, log in and chat with other users. | Ruby, Ruby on Rails, JQuery, Semantic UI, Redis |
+| [Finance Tracker](https://github.com/Maldorana/finance-tracker) | A stock tracker, working with an API to keep track of the stock market. Users can track their favorite stocks and look up the tracked stocks of other users. | Ruby, Ruby on Rails, RSpec, Bootstrap |
 
 ## Experience
 
