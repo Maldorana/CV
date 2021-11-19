@@ -3,7 +3,7 @@
 <p align="center">
 
 <a href="mailto:ben.smith.gordon@gmail.com">
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-128.png" alt="medium" hspace="50" height="42" width="42"></a>
+<img src="https://github.com/Maldorana/CV/blob/master/img/website.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 <a href="https://www.linkedin.com/in/benjamin-luke-smith-gordon-2a4686167/">
 <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
