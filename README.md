@@ -1,4 +1,4 @@
-## Sophie Bonneval
+# Sophie Bonneval
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/sophie-bonneval-9b8b07a4/?originalSubdomain=uk) | [Portfolio](http://sophiebonneval.com/)
 
