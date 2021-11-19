@@ -1,13 +1,14 @@
 # Sophie Bonneval
 
+<p align="center">
 
-[<img align="left" alt="Java" width="200px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](www.google.com)
-<img align="left" alt="Java" width="200px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Java" width="200px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Java" width="200px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<a href="mailto:ben.smith.gordon@gmail.com">
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-128.png" alt="medium" hspace="50" height="42" width="42"></a>
 
-<br />
-<br />
+<a href="https://www.linkedin.com/in/benjamin-luke-smith-gordon-2a4686167/">
+<img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>
 
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/sophie-bonneval-9b8b07a4/?originalSubdomain=uk) | [Portfolio](http://sophiebonneval.com/)
