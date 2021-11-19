@@ -64,7 +64,7 @@ For a complete list, see my [GitHub](https://github.com/Maldorana?tab=repositori
 * I'm effective at understanding and finding solutions to error messages during TDD and debugging, and understanding the reasons why errors occur.
 * During most of the projects at Makers, I was one of the go-to students to fix bugs and I helped my fellow Makers solve numerous issues on top of the ones encountered by my own group.
 
-#### Natural leader and planner
+#### Natural leader and organiser
 
 * I naturally took the lead for most of my group projects during Makers bootcamp to help with the planning and development of our products.
 * I volunteered to co-hosted our very first demo day and self-led retro as a cohort during the fifth week at Makers.
@@ -77,7 +77,7 @@ For a complete list, see my [GitHub](https://github.com/Maldorana?tab=repositori
 
 #### Additional skills
 
- - Methodologies : Agile, Test Driven Development
+ - Methodologies : Agile, Test Driven Development, UX & UI Design
  - Foreign languages : Native French speaker, conversational in Spanish
 
 ## Education
