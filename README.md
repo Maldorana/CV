@@ -22,16 +22,19 @@
 
 ## About me
 
-I am a driven and passionate **Junior Full Stack Developer**, looking for a role where I can consolidate and extend my knowledge of programming and product development.
+I am a driven and passionate **Junior Full Stack Developer** with a BA in Visual communication and **5 years experience as a Product Designer** in London, during which I learnt the basics of front-end web development and working in an agile team.
 
-I graduated from a Visual Communication bachelor's degree in France and worked as a **Product Designer in London for 5 years**, during which I learnt the basics of front-end web development and working in an agile team.
+I became fascinated in web development during my time as a Product Designer and I realised coding actually suited me better as I’m a very logical person.
 
 I learnt how to code at **Makers Academy**, a 16 weeks software development bootcamp, after being selected among nearly 100 applicants for the scholarship program.
 
 **Languages:** HTML - CSS - Ruby - JavaScript - Typescript - SQL\
 **Testing:** RSpec - Capybara - Jest - Jasmine - React Testing Library\
-**Frameworks, libraries and environments:** Bootstrap - React - Node.js - Ruby on Rails - Sinatra - Firebase - AWS\
-**Design softwares:** : Sketch - Illustrator - Photoshop - InDesign - After Effects
+**Frameworks, libraries and environments:** Bootstrap - React - Node.js - Ruby on Rails - Sinatra - Firebase - AWS
+
+**Foreign languages:** Native French speaker, conversational in Spanish\
+**Design softwares:** : Sketch - Illustrator - Photoshop - InDesign - After Effects\
+**Methodologies:** Agile, Test Driven Development, UX & UI Design
 
 ## Projects
 
@@ -52,20 +55,30 @@ For a complete list, see my [GitHub repositories](https://github.com/Maldorana?t
 **Careerjet** (Aug '16 - Oct '20)  
 _Product Designer_
 
-- Assist with the rebranding of the jobsite [Careerjet](https://www.careerjet.co.uk/)
+- Assist with the redesign and rebranding of all products, including the jobsite [Careerjet](https://www.careerjet.co.uk/).
 - Translate business model new direction into high quality, user centered design solutions.
+- Analyse results and market trends to produce and develop new innovative features, from concept and design through to production.
+- Production of sketches, wireframes, specs, guidelines and production-ready assets.
+- Test the product and work with developers to ensure the final product is aligned to the original vision.
 
 **Padawan Ltd** (Oct '15 - Jul '16)  
 _Junior Web Designer_
 
-- Successfully redesign the responsive version 2 of the website and mobile application from prototype to final product, including many new features.
-- Responsible for the social media (avatars, covers, newsfeeds), marketing (banners, landing pages, mailings), and corporate (newsletters, teaser investors, christmas card, organisational chart) designs.
+- Successfully redesign the responsive version 2 of the website and mobile application from prototype to final product, including many new features across 22 websites.
+- In charge of producing the marketing materials including fully responsive landing pages, banners, mailings, presentations and social media.
+- Responsible for corporate designs (newsletters, teaser investors and organisational chart).
+- In charge of the creation and localisation of all the motion design for the TV campaign, working alongside the creative agency and Padawan marketing team.
 
 **Peace One Day** (Aug '15 - Oct '15)  
 _Junior Graphic Designer_
 
-- Design of images for social media, banners and invitations for numerous events.
+- Design of images for social media, banners and email invitations for numerous events.
 - Creation of all promotionnal paper-based designs for the event (posters & flyers, banners, checkerboard, headband, stage mock-ups).
+- Creation and layout improvements of numerous documents and reports (brochures, guidelines, etc.).
+- Concept and creation of various motion design videos (beginning and end credits, animated logos).
+- Web design and content edition of websites using CMS such as Wordpress.
+- Design of professional presentations and data visualisations.
+- In charge of several events involving around 15 different artists and music bands, from negociating salaries and conditions to being on site to ensure the smooth run of the event.
 
 ## Skills
 
@@ -93,11 +106,6 @@ _Junior Graphic Designer_
 - I volunteered to take on 3 mentees, whom I've been supporting and teaching since before the start of their bootcamp and I am still helping them to that day.
 - At Makers, I would always take some time during group projects to show the others my process with HTML and CSS while styling a page since I had experience with that from my previous career and it's not something we work on a lot.
 
-#### Additional skills
-
-- Methodologies : Agile, Test Driven Development, UX & UI Design
-- Foreign languages : Native French speaker, conversational in Spanish
-
 ## Education
 
 #### Makers Academy (Jul '21 - Nov '21)
@@ -120,7 +128,6 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Hobbies and Interests
 
-- **Running** : I like to start my day with fresh air and a good run
-- **Writing** : I use my imagination to write all sorts of stories after a long hard day
-- **Video Games** : I'm the founder and administrator of a small gaming community where I used to organise online competitive events with 30+ players. As a team, we've reached the top 1% of all players for that given game worldwide.
-- **Property investor** : I bought my first property after 2 years of research into the property market and I plan to build a solid and diverse portfolio by the time I'm 40.
+- **Video Games:** I'm the founder and administrator of a small gaming community where I used to organise online competitive events with 30+ players. As a team, we've reached the top 1% of all players for that given game worldwide.
+- **Property investor:** I bought my first property after 2 years of research into the property market and I plan to build a solid and diverse portfolio by the time I'm 40.
+- **Writing:** I've always used my imagination to write stories based on my favorite movies and series. [My stories](https://www.fanfiction.net/~maldorana)
