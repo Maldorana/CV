@@ -28,13 +28,13 @@ I became fascinated in web development during my time as a Product Designer and 
 
 I learnt how to code at **Makers Academy**, a 16 weeks software development bootcamp, after being selected among nearly 100 applicants for the scholarship program.
 
-**Languages:** HTML - CSS - Ruby - JavaScript - Typescript - SQL\
-**Testing:** RSpec - Capybara - Jest - Jasmine - React Testing Library\
-**Frameworks, libraries and environments:** Bootstrap - React - Node.js - Ruby on Rails - Sinatra - Firebase - AWS
+**Languages:** HTML - CSS - JavaScript - Typescript - Ruby -  SQL\
+**Testing:** RSpec - Capybara - Jasmine - Jest - React Testing Library\
+**Frameworks, libraries and environments:** Sinatra - Ruby on Rails - Bootstrap - React - Node.js - Firebase - AWS
 
 **Foreign languages:** Native French speaker, conversational in Spanish\
 **Design softwares:** : Sketch - Illustrator - Photoshop - InDesign - After Effects\
-**Methodologies:** Agile, Test Driven Development, UX & UI Design
+**Methodologies:** Agile, Test Driven Development, UX & UI Design, User Research
 
 ## Projects
 
@@ -131,3 +131,4 @@ A 16-week intensive development bootcamp, focusing on :
 - **Video Games:** I'm the founder and administrator of a small gaming community where I used to organise online competitive events with 30+ players. As a team, we've reached the top 1% of all players for that given game worldwide.
 - **Property investor:** I bought my first property after 2 years of research into the property market and I plan to build a solid and diverse portfolio by the time I'm 40.
 - **Writing:** I've always used my imagination to write stories based on my favorite movies and series. [My stories](https://www.fanfiction.net/~maldorana)
+
