@@ -130,5 +130,4 @@ A 16-week intensive development bootcamp, focusing on :
 
 - **Video Games:** I'm the founder and administrator of a small gaming community where I used to organise online competitive events with 30+ players. As a team, we've reached the top 1% of all players for that given game worldwide.
 - **Property investor:** I bought my first property after 2 years of research into the property market and I plan to build a solid and diverse portfolio by the time I'm 40.
-- **Writing:** I've always used my imagination to write stories based on my favorite movies and series. [My stories](https://www.fanfiction.net/~maldorana)
 
